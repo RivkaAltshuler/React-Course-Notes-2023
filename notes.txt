@@ -1,3 +1,6 @@
+Rivka: to me only
 https://chat.openai.com/share/445d318f-e701-4ac5-aec3-83597551ced8
 
 https://www.codifytools.com/blog/react-npm-package
+
+https://mobx.js.org/the-gist-of-mobx.html
