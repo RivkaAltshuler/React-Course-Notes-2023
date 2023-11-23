@@ -1,4 +1,4 @@
-# temp
+# Targil
 ## The Timer Bug Example 
 
 run in https://react.dev/learn/installation#try-react
